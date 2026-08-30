@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 A Streamlit web app that recommends movies similar to a selected movie using a precomputed similarity model and poster data from TMDB.
-
+https://movierecommendation-jpfaykpipwyswm4vsg5ure.streamlit.app/
 ## Features
 - Movie recommendation based on similarity scores
 - Poster fetching from TMDB
